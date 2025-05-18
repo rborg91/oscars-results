@@ -1,0 +1,611 @@
+IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
+0019304,The Racket,1928,"Crime, Drama, Film-Noir",Lewis Milestone,6.6,84,United States,"None, English"
+0018379,7th Heaven,1927,"Drama, Romance",Frank Borzage,7.5,110,United States,"None, English"
+0018578,Wings,1927,"Drama, Romance, War, Action","Harry d'Abbadie d'Arrast, William A. Wellman",7.5,144,United States,English
+0019630,Alibi,1929,"Action, Crime, Romance",Roland West,5.6,91,United States,English
+0020018,In Old Arizona,1928,"Drama, Western","Irving Cummings, Raoul Walsh",5.5,95,United States,"English, Spanish, Italian"
+0019729,The Broadway Melody,1929,"Drama, Musical, Romance",Harry Beaumont,5.5,100,United States,English
+0019993,The Hollywood Revue of 1929,1929,"Comedy, Music","Charles Reisner, Christy Cabanne, Norman Houston",5.7,130,United States,English
+0020629,All Quiet on the Western Front,1930,"Drama, War",Lewis Milestone,8.1,152,United States,"English, French, German, Latin"
+0020686,The Big House,1930,"Crime, Drama, Thriller","George W. Hill, Ward Wing",7.1,87,United States,"English, Russian"
+0019823,Disraeli,1929,"Biography, Drama, History",Alfred E. Green,6.1,90,United States,English
+0020827,The Divorcee,1930,"Romance, Drama",Robert Z. Leonard,6.7,84,United States,"English, French"
+0020112,The Love Parade,1929,"Comedy, Musical, Romance",Ernst Lubitsch,7.0,107,United States,"English, French"
+0021746,Cimarron,1931,"Drama, Western",Wesley Ruggles,5.8,123,United States,"English, French"
+0021826,East Lynne,1931,"Drama, Romance",Frank Lloyd,5.7,102,United States,English
+0021890,The Front Page,1931,"Comedy, Crime, Drama, Mystery, Romance",Lewis Milestone,6.7,101,United States,English
+0022397,Skippy,1931,"Comedy, Drama, Family",Norman Taurog,6.3,85,United States,English
+0022495,Trader Horn,1931,"Action, Adventure, Drama, Romance",W.S. Van Dyke,6.1,122,United States,"English, Swahili"
+0021622,Arrowsmith,1931,Drama,John Ford,6.2,108,United States,"English, Italian, Swedish"
+0021635,Bad Girl,1931,"Drama, Romance",Frank Borzage,6.4,90,United States,English
+0021730,The Champ,1931,"Drama, Family, Sport",King Vidor,7.2,86,United States,English
+0021873,Five Star Final,1931,"Crime, Drama",Mervyn LeRoy,7.3,89,United States,English
+0022958,Grand Hotel,1932,"Drama, Romance",Edmund Goulding,7.3,112,United States,"English, Russian"
+0023303,One Hour with You,1932,"Comedy, Musical, Romance","Ernst Lubitsch, George Cukor",7.0,78,United States,"English, French"
+0023458,Shanghai Express,1932,"Adventure, Drama, Film-Noir, Romance",Josef von Sternberg,7.3,82,United States,"English, French, Cantonese, German"
+0022074,The Smiling Lieutenant,1931,"Comedy, Musical, Romance",Ernst Lubitsch,7.1,93,United States,"English, French"
+0023876,Cavalcade,1933,"Drama, Romance, War",Frank Lloyd,5.8,112,United States,English
+0022879,A Farewell to Arms,1932,"Drama, Romance, War",Frank Borzage,6.4,80,United States,"English, Italian, Latin, French"
+0024034,42nd Street,1933,"Comedy, Drama, Musical, Romance",Lloyd Bacon,7.3,89,United States,English
+0023042,I Am a Fugitive from a Chain Gang,1932,"Crime, Drama, Film-Noir",Mervyn LeRoy,8.2,92,United States,English
+0024240,Lady for a Day,1933,"Comedy, Drama",Frank Capra,7.4,96,United States,"English, Spanish"
+0024264,Little Women,1933,"Drama, Family, Romance, War",George Cukor,7.2,115,United States,"English, German"
+0024473,The Private Life of Henry VIII,1933,"Biography, Drama, History",Alexander Korda,7.0,97,United Kingdom,"English, German"
+0024548,She Done Him Wrong,1933,"Comedy, Drama, History, Musical, Romance",Lowell Sherman,6.3,66,United States,English
+0023488,Smilin' Through,1932,"Drama, Romance",Sidney Franklin,6.9,98,United States,"French, English"
+0024610,State Fair,1933,"Comedy, Drama, Romance",Henry King,6.7,99,United States,English
+0024865,The Barretts of Wimpole Street,1934,"Biography, Drama, Romance",Sidney Franklin,6.9,109,United States,English
+0024991,Cleopatra,1934,"Biography, Drama, History, War",Cecil B. DeMille,6.8,100,United States,English
+0025124,Flirtation Walk,1934,Musical,Frank Borzage,5.6,97,United States,English
+0025164,The Gay Divorcee,1934,"Comedy, Musical, Romance",Mark Sandrich,7.3,107,United States,"English, French, Italian"
+0025238,Here Comes the Navy,1934,"Comedy, Drama, Romance, War",Lloyd Bacon,6.2,87,United States,English
+0025272,The House of Rothschild,1934,"Biography, Drama, History, War","Alfred L. Werker, Sidney Lanfield",6.5,88,United States,English
+0025301,Imitation of Life,1934,"Comedy, Drama, Romance",John M. Stahl,7.5,111,United States,English
+0025316,It Happened One Night,1934,"Comedy, Romance",Frank Capra,8.1,105,United States,English
+0025601,One Night of Love,1934,"Comedy, Music, Romance",Victor Schertzinger,5.6,84,United States,"English, Italian"
+0025878,The Thin Man,1934,"Comedy, Crime, Mystery, Romance",W.S. Van Dyke,7.9,91,United States,English
+0025948,Viva Villa!,1934,"Biography, Western","Howard Hawks, Jack Conway, William A. Wellman",6.3,115,United States,English
+0025986,The White Parade,1934,Drama,Irving Cummings,6.5,80,United States,English
+0026056,Alice Adams,1935,"Comedy, Drama, Romance",George Stevens,6.9,99,United States,English
+0026144,Broadway Melody of 1936,1935,"Comedy, Musical, Romance","Roy Del Ruth, W.S. Van Dyke",6.7,101,United States,"English, French, Spanish"
+0026174,Captain Blood,1935,"Action, Adventure, History, Romance",Michael Curtiz,7.7,119,United States,"English, French"
+0026266,David Copperfield,1935,"Adventure, Drama, Family, Romance",George Cukor,7.3,130,United States,English
+0026529,The Informer,1935,"Crime, Drama",John Ford,7.4,91,United States,English
+0026725,Les Misérables,1935,"Drama, History, Romance",Richard Boleslawski,7.6,108,United States,English
+0026643,The Lives of a Bengal Lancer,1935,"Adventure, Drama, War",Henry Hathaway,7.0,109,United States,English
+0026714,A Midsummer Night's Dream,1935,"Comedy, Fantasy, Romance","Max Reinhardt, William Dieterle",6.8,133,United States,English
+0026752,Mutiny on the Bounty,1935,"Adventure, Biography, Drama, History, Romance",Frank Lloyd,7.6,132,United States,"English, Polynesian"
+0026768,Naughty Marietta,1935,"Drama, Musical, Romance","Robert Z. Leonard, W.S. Van Dyke",6.5,105,United States,English
+0026955,Ruggles of Red Gap,1935,"Comedy, Mystery, Romance, Western",Leo McCarey,7.6,90,United States,"English, French"
+0027125,Top Hat,1935,"Comedy, Musical, Romance",Mark Sandrich,7.7,101,United States,"English, Italian"
+0027300,Anthony Adverse,1936,"Adventure, Drama, Romance","Mervyn LeRoy, Michael Curtiz",6.3,141,United States,"English, Italian"
+0027532,Dodsworth,1936,"Drama, Romance",William Wyler,7.7,101,United States,"English, French, German, Italian"
+0027698,The Great Ziegfeld,1936,"Drama, Musical",Robert Z. Leonard,6.6,176,United States,English
+0027884,Libeled Lady,1936,"Comedy, Romance",Jack Conway,7.8,98,United States,English
+0027996,Mr. Deeds Goes to Town,1936,"Comedy, Drama, Romance",Frank Capra,7.8,115,United States,English
+0028203,Romeo and Juliet,1936,"Drama, Romance",George Cukor,6.4,125,United States,English
+0028216,San Francisco,1936,"Drama, Music, Romance",W.S. Van Dyke,7.1,115,United States,English
+0028313,The Story of Louis Pasteur,1936,"Biography, Drama, History",William Dieterle,7.3,86,United States,"English, French, Russian"
+0027075,A Tale of Two Cities,1935,"Drama, History, Romance","Jack Conway, Robert Z. Leonard",7.8,128,United States,English
+0028373,Three Smart Girls,1936,"Comedy, Musical, Romance",Henry Koster,6.5,84,United States,English
+0028597,The Awful Truth,1937,"Comedy, Romance",Leo McCarey,7.7,90,United States,"English, French, Italian"
+0028691,Captains Courageous,1937,"Adventure, Drama, Family",Victor Fleming,7.9,117,United States,"English, Portuguese"
+0028773,Dead End,1937,"Crime, Drama, Film-Noir, Romance",William Wyler,7.2,93,United States,English
+0028944,The Good Earth,1937,"Drama, Romance","Gustav Machatý, Sam Wood, Sidney Franklin, Victor Fleming",7.5,138,United States,English
+0029047,In Old Chicago,1938,"Action, Drama, Musical, Romance",Henry King,6.7,95,United States,"English, German"
+0029146,The Life of Emile Zola,1937,"Biography, Drama",William Dieterle,7.1,116,United States,English
+0029162,Lost Horizon,1937,"Adventure, Drama, Fantasy, Mystery",Frank Capra,7.6,132,United States,"English, Mandarin"
+0029347,One Hundred Men and a Girl,1937,"Comedy, Drama, Music",Henry Koster,6.7,84,United States,English
+0029604,Stage Door,1937,"Comedy, Drama, Romance",Gregory La Cava,7.7,92,United States,English
+0029606,A Star Is Born,1937,"Drama, Romance","Jack Conway, Victor Fleming, William A. Wellman",7.3,111,United States,English
+0029843,The Adventures of Robin Hood,1938,"Action, Adventure, Romance","Michael Curtiz, William Keighley",7.9,102,United States,English
+0029852,Alexander's Ragtime Band,1938,"Drama, Music, Musical, Romance",Henry King,6.8,106,United States,English
+0029942,Boys Town,1938,"Biography, Drama, Family",Norman Taurog,7.2,96,United States,"English, Hebrew"
+0029995,The Citadel,1938,Drama,King Vidor,7.0,110,United Kingdom,English
+0030149,Four Daughters,1938,"Drama, Music, Romance",Michael Curtiz,6.9,90,United States,"English, French"
+0028950,The Grand Illusion,1937,"Drama, War",Jean Renoir,8.1,113,France,"French, German, English, Russian"
+0030287,Jezebel,1938,"Drama, Romance",William Wyler,7.4,104,United States,"English, French"
+0030637,Pygmalion,1938,"Comedy, Drama, Romance","Anthony Asquith, Leslie Howard",7.7,96,United Kingdom,English
+0030848,Test Pilot,1938,"Drama, Romance",Victor Fleming,6.8,119,United States,English
+0030993,You Can't Take It with You,1938,"Comedy, Drama, Romance",Frank Capra,7.8,126,United States,"English, Russian"
+0031210,Dark Victory,1939,"Drama, Romance",Edmund Goulding,7.4,104,United States,English
+0031381,Gone with the Wind,1939,"Drama, Romance, War",Victor Fleming,8.2,238,United States,English
+0031385,"Goodbye, Mr. Chips",1939,"Drama, Romance","Sam Wood, Sidney Franklin",7.9,114,"United Kingdom, United States","English, Latin, German"
+0031593,Love Affair,1939,"Comedy, Drama, Romance",Leo McCarey,7.3,88,United States,"English, French"
+0031679,Mr. Smith Goes to Washington,1939,"Comedy, Drama",Frank Capra,8.1,129,United States,English
+0031725,Ninotchka,1939,"Comedy, Romance",Ernst Lubitsch,7.8,110,United States,"English, Russian, French"
+0031742,Of Mice and Men,1939,"Adventure, Drama",Lewis Milestone,7.8,106,United States,English
+0031971,Stagecoach,1939,"Adventure, Drama, Western",John Ford,7.8,96,United States,"English, Spanish, French"
+0032138,The Wizard of Oz,1939,"Adventure, Family, Fantasy, Musical","King Vidor, Victor Fleming",8.1,102,United States,English
+0032145,Wuthering Heights,1939,"Drama, Romance",William Wyler,7.5,104,United States,English
+0032194,"All This, and Heaven Too",1940,"Drama, Romance",Anatole Litvak,7.4,141,United States,"English, French"
+0032484,Foreign Correspondent,1940,"Action, Drama, Romance, Thriller, War",Alfred Hitchcock,7.4,120,United States,"English, Dutch, German, Latvian"
+0032551,The Grapes of Wrath,1940,Drama,John Ford,8.1,129,United States,English
+0032553,The Great Dictator,1940,"Comedy, Drama, War",Charles Chaplin,8.4,125,United States,"English, Esperanto, Latin"
+0032671,Kitty Foyle,1940,"Drama, Romance",Sam Wood,6.9,108,United States,English
+0032701,The Letter,1940,"Crime, Drama, Film-Noir, Mystery, Romance",William Wyler,7.5,95,United States,English
+0032728,The Long Voyage Home,1940,"Drama, War",John Ford,6.9,105,United States,"English, Spanish"
+0032881,Our Town,1940,"Drama, Family, Romance",Sam Wood,6.5,90,United States,English
+0032904,The Philadelphia Story,1940,"Comedy, Romance",George Cukor,7.8,112,United States,"English, French"
+0032976,Rebecca,1940,"Drama, Mystery, Romance, Thriller",Alfred Hitchcock,8.1,130,United States,"English, French"
+0033407,Blossoms in the Dust,1941,"Biography, Drama, Romance",Mervyn LeRoy,6.9,99,United States,English
+0033467,Citizen Kane,1941,"Drama, Mystery",Orson Welles,8.3,119,United States,"English, Italian"
+0033712,Here Comes Mr. Jordan,1941,"Comedy, Fantasy, Romance",Alexander Hall,7.5,94,United States,English
+0033722,Hold Back the Dawn,1941,"Drama, Romance",Mitchell Leisen,7.3,116,United States,"English, Spanish, Latin, French, German"
+0033729,How Green Was My Valley,1941,"Drama, Family",John Ford,7.7,118,United States,"English, Welsh"
+0033836,The Little Foxes,1941,"Drama, Romance",William Wyler,7.9,116,United States,English
+0033870,The Maltese Falcon,1941,"Crime, Drama, Film-Noir, Mystery, Romance",John Huston,7.9,100,United States,English
+0033980,One Foot in Heaven,1941,"Biography, Drama, Romance",Irving Rapper,6.6,108,United States,English
+0034167,Sergeant York,1941,"Biography, Drama, History, Romance, War",Howard Hawks,7.7,134,United States,"English, French, German"
+0034248,Suspicion,1941,"Drama, Film-Noir, Mystery, Thriller",Alfred Hitchcock,7.3,99,United States,English
+0033627,49th Parallel,1941,"Drama, Thriller, War",Michael Powell,7.3,123,United Kingdom,"English, French, German"
+0034946,Kings Row,1942,Drama,Sam Wood,7.5,127,United States,"English, French"
+0035015,The Magnificent Ambersons,1942,"Drama, Romance","Fred Fleck, Orson Welles, Robert Wise",7.6,88,United States,English
+0035093,Mrs. Miniver,1942,"Drama, Romance, War",William Wyler,7.6,134,United States,"English, German"
+0035189,The Pied Piper,1942,"Drama, War",Irving Pichel,7.0,87,United States,"English, French, German"
+0035211,The Pride of the Yankees,1942,"Biography, Drama, Romance, Sport",Sam Wood,7.6,128,United States,English
+0035238,Random Harvest,1942,"Drama, Romance",Mervyn LeRoy,7.9,126,United States,English
+0035417,The Talk of the Town,1942,"Comedy, Drama, Romance, Thriller",George Stevens,7.5,118,United States,English
+0035530,Wake Island,1942,"Action, Drama, War",John Farrow,6.6,88,United States,"English, Japanese"
+0035575,Yankee Doodle Dandy,1942,"Biography, Drama, Family, Music, Musical",Michael Curtiz,7.6,126,United States,English
+0034583,Casablanca,1942,"Drama, Romance, War",Michael Curtiz,8.5,102,United States,"English, French, German, Italian, Russian"
+0035896,For Whom the Bell Tolls,1943,"Adventure, Drama, History, Romance, War",Sam Wood,6.8,170,United States,"English, Spanish"
+0035979,Heaven Can Wait,1943,"Comedy, Drama, Fantasy, Romance",Ernst Lubitsch,7.3,112,United States,"English, French"
+0036022,The Human Comedy,1943,"Comedy, Drama, Family, Romance, War",Clarence Brown,7.0,117,United States,"English, Spanish"
+0034891,In Which We Serve,1942,"Drama, War","David Lean, Noël Coward",7.2,115,United Kingdom,English
+0036126,Madame Curie,1943,"Biography, Drama, Romance","Albert Lewin, Mervyn LeRoy",7.2,124,United States,English
+0036172,The More the Merrier,1943,Comedy,George Stevens,7.6,104,United States,English
+0036244,The Ox-Bow Incident,1942,"Drama, Western",William A. Wellman,8.0,75,United States,"English, Spanish"
+0036377,The Song of Bernadette,1943,"Biography, Drama, Mystery",Henry King,7.6,156,United States,"English, French"
+0036515,Watch on the Rhine,1943,"Drama, Thriller","Hal Mohr, Herman Shumlin",7.1,114,United States,"English, German"
+0036775,Double Indemnity,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",Billy Wilder,8.3,107,United States,English
+0036855,Gaslight,1944,"Crime, Drama, Mystery, Romance, Thriller",George Cukor,7.8,114,United States,"English, Italian"
+0036872,Going My Way,1944,"Comedy, Drama, Music",Leo McCarey,7.0,126,United States,English
+0037280,Since You Went Away,1944,"Drama, Romance, War","David O. Selznick, Edward F. Cline, John Cromwell, Tay Garnett",7.5,177,United States,"English, Yiddish"
+0037465,Wilson,1944,"Biography, Drama, History, Music, Romance",Henry King,6.3,154,United States,English
+0037514,Anchors Aweigh,1945,"Comedy, Fantasy, Musical","George Sidney, Joseph Barbera, William Hanna",7.0,140,United States,"English, Spanish"
+0037536,The Bells of St. Mary's,1945,Drama,Leo McCarey,7.2,126,United States,"English, Latin, Swedish"
+0037884,The Lost Weekend,1945,"Drama, Film-Noir",Billy Wilder,7.9,101,United States,English
+0037913,Mildred Pierce,1945,"Crime, Drama, Film-Noir, Mystery, Romance",Michael Curtiz,7.9,111,United States,"English, French"
+0038109,Spellbound,1945,"Drama, Film-Noir, Mystery, Romance, Thriller",Alfred Hitchcock,7.5,111,United States,English
+0036868,The Best Years of Our Lives,1946,"Drama, Romance, War",William Wyler,8.1,170,United States,English
+0036910,Henry V,1944,"Biography, Drama, History, War",Laurence Olivier,7.0,137,United Kingdom,"English, French"
+0038650,It's a Wonderful Life,1946,"Drama, Family, Fantasy, Romance",Frank Capra,8.6,130,United States,"English, French"
+0038873,The Razor's Edge,1946,"Drama, Romance",Edmund Goulding,7.3,145,United States,"English, French"
+0039111,The Yearling,1946,"Drama, Family, Western",Clarence Brown,7.1,128,United States,English
+0039190,The Bishop's Wife,1947,"Comedy, Drama, Fantasy, Romance",Henry Koster,7.6,109,United States,"English, French"
+0039286,Crossfire,1947,"Crime, Drama, Film-Noir, Mystery",Edward Dmytryk,7.3,86,United States,English
+0039416,Gentleman's Agreement,1947,"Drama, Romance",Elia Kazan,7.2,118,United States,English
+0038574,Great Expectations,1946,"Adventure, Drama, Mystery, Romance",David Lean,7.8,118,United Kingdom,English
+0039628,Miracle on 34th Street,1947,"Comedy, Drama, Family, Fantasy",George Seaton,7.9,96,United States,"English, Dutch"
+0040416,Hamlet,1948,Drama,Laurence Olivier,7.5,154,United Kingdom,English
+0040495,Johnny Belinda,1948,Drama,Jean Negulesco,7.7,102,United States,"English, American Sign Language"
+0040725,The Red Shoes,1948,"Drama, Music, Romance","Emeric Pressburger, Michael Powell",8.1,135,United Kingdom,"English, French, Russian"
+0040806,The Snake Pit,1948,"Drama, Mystery",Anatole Litvak,7.6,108,United States,"English, German, Russian"
+0040897,The Treasure of the Sierra Madre,1948,"Adventure, Drama, Western",John Huston,8.2,126,United States,"English, Spanish"
+0041113,All the King's Men,1949,"Drama, Film-Noir",Robert Rossen,7.4,110,United States,English
+0041163,Battleground,1949,"Action, Drama, History, War",William A. Wellman,7.4,118,United States,"English, French, German"
+0041452,The Heiress,1949,"Drama, Romance",William Wyler,8.1,115,United States,"English, French"
+0041587,A Letter to Three Wives,1949,"Comedy, Drama, Romance",Joseph L. Mankiewicz,7.7,103,United States,"English, Spanish"
+0041996,Twelve O'Clock High,1949,"Drama, War",Henry King,7.7,132,United States,English
+0042192,All About Eve,1950,Drama,Joseph L. Mankiewicz,8.2,138,United States,"English, French"
+0042276,Born Yesterday,1950,"Comedy, Drama, Romance",George Cukor,7.5,103,United States,English
+0042451,Father of the Bride,1950,"Comedy, Drama, Romance",Vincente Minnelli,7.1,92,United States,English
+0042646,King Solomon's Mines,1950,"Action, Adventure, Romance","Andrew Marton, Compton Bennett",6.7,103,United States,English
+0043014,Sunset Boulevard,1950,"Drama, Film-Noir",Billy Wilder,8.4,110,United States,English
+0043278,An American in Paris,1951,"Drama, Musical, Romance",Vincente Minnelli,7.1,114,United States,"English, French, German"
+0043459,Decision Before Dawn,1951,"Drama, War",Anatole Litvak,7.2,119,"United States, West Germany","English, French, German"
+0043924,A Place in the Sun,1951,"Drama, Romance",George Stevens,7.7,122,United States,English
+0043949,Quo Vadis,1951,"Drama, Romance","Anthony Mann, Mervyn LeRoy",7.1,171,United States,English
+0044081,A Streetcar Named Desire,1951,Drama,Elia Kazan,7.9,122,United States,"English, Spanish"
+0044672,The Greatest Show on Earth,1952,"Drama, Family, Romance",Cecil B. DeMille,6.5,152,United States,"English, Russian"
+0044706,High Noon,1952,"Drama, Thriller, Western",Fred Zinnemann,7.9,85,United States,"English, Spanish"
+0044760,Ivanhoe,1952,"Action, Adventure, Drama, Romance",Richard Thorpe,6.7,106,"United Kingdom, United States",English
+0044926,Moulin Rouge,1952,"Biography, Drama, Music, Romance",John Huston,7.0,119,United Kingdom,"English, French"
+0045061,The Quiet Man,1952,"Comedy, Drama, Romance",John Ford,7.7,129,United States,"English, Irish"
+0045793,From Here to Eternity,1953,"Drama, Romance, War",Fred Zinnemann,7.6,118,United States,English
+0045943,Julius Caesar,1953,"Drama, History",Joseph L. Mankiewicz,7.2,120,United States,English
+0046247,The Robe,1953,"Drama, History, Romance",Henry Koster,6.7,135,United States,English
+0046250,Roman Holiday,1953,"Comedy, Drama, Romance",William Wyler,8.0,118,United States,"English, Italian, German"
+0046303,Shane,1953,"Drama, Western",George Stevens,7.6,118,United States,English
+0046816,The Caine Mutiny,1954,"Drama, War",Edward Dmytryk,7.7,124,United States,English
+0046874,The Country Girl,1954,"Drama, Music",George Seaton,7.2,104,United States,English
+0047296,On the Waterfront,1954,"Crime, Drama, Thriller",Elia Kazan,8.1,108,United States,"English, Latin"
+0047472,Seven Brides for Seven Brothers,1954,"Musical, Romance, Western",Stanley Donen,7.3,102,United States,English
+0047580,Three Coins in the Fountain,1954,"Drama, Romance",Jean Negulesco,6.2,102,United States,"English, Italian"
+0048316,Love Is a Many-Splendored Thing,1955,"Biography, Drama, Romance, War","Henry King, Otto Lang",6.4,102,United States,"English, Mandarin"
+0048356,Marty,1955,"Drama, Romance",Delbert Mann,7.7,90,United States,"English, German, Italian"
+0048380,Mister Roberts,1955,"Comedy, Drama, War","John Ford, Joshua Logan, Mervyn LeRoy",7.6,123,United States,English
+0048491,Picnic,1955,"Drama, Romance",Joshua Logan,7.0,115,United States,English
+0048563,The Rose Tattoo,1955,"Comedy, Drama, Romance",Daniel Mann,6.9,117,United States,"English, Italian"
+0048960,Around the World in 80 Days,1956,"Adventure, Comedy, Family, Romance","John Farrow, Michael Anderson",6.7,167,United States,"English, Spanish, French, Cantonese"
+0049233,Friendly Persuasion,1956,"Drama, Family, Romance, War, Western",William Wyler,7.3,137,United States,English
+0049261,Giant,1956,"Drama, Western",George Stevens,7.6,201,United States,"English, Spanish"
+0049408,The King and I,1956,"Biography, Drama, Musical, Romance",Walter Lang,7.4,133,United States,"English, Thai"
+0049833,The Ten Commandments,1956,"Adventure, Drama, Family, History",Cecil B. DeMille,7.9,220,United States,English
+0050212,The Bridge on the River Kwai,1957,"Adventure, Drama, War",David Lean,8.1,161,"United Kingdom, United States","English, Japanese, Thai"
+0050839,Peyton Place,1957,"Crime, Drama, Mystery, Romance",Mark Robson,7.2,157,United States,English
+0050933,Sayonara,1957,"Drama, Romance",Joshua Logan,7.0,147,United States,"English, Japanese"
+0050083,12 Angry Men,1957,"Crime, Drama",Sidney Lumet,9.0,96,United States,English
+0051201,Witness for the Prosecution,1957,"Crime, Drama, Mystery, Thriller",Billy Wilder,8.4,116,United States,"English, German"
+0051383,Auntie Mame,1958,"Comedy, Drama, Romance",Morton DaCosta,7.9,143,United States,"English, French, Russian, Hindi"
+0051459,Cat on a Hot Tin Roof,1958,Drama,Richard Brooks,7.9,108,United States,English
+0051525,The Defiant Ones,1958,"Crime, Drama",Stanley Kramer,7.6,96,United States,English
+0051658,Gigi,1958,"Comedy, Musical, Romance","Charles Walters, Vincente Minnelli",6.6,115,United States,"English, French"
+0052182,Separate Tables,1958,"Drama, Romance",Delbert Mann,7.4,100,United States,English
+0052561,Anatomy of a Murder,1959,"Drama, Mystery",Otto Preminger,8.0,161,United States,English
+0052618,Ben-Hur,1959,"Adventure, Drama",William Wyler,8.1,212,United States,English
+0052738,The Diary of Anne Frank,1959,"Biography, Drama, Family, History, War",George Stevens,7.4,180,United States,"English, German"
+0053131,The Nun's Story,1959,Drama,Fred Zinnemann,7.5,149,United States,English
+0053226,Room at the Top,1958,"Drama, Romance",Jack Clayton,7.5,117,United Kingdom,"English, French"
+0053580,The Alamo,1960,"Adventure, Drama, History, War, Western",John Wayne,6.8,162,United States,"English, Spanish"
+0053604,The Apartment,1960,"Comedy, Drama, Romance",Billy Wilder,8.3,125,United States,English
+0053793,Elmer Gantry,1960,Drama,Richard Brooks,7.7,146,United States,English
+0054326,Sons and Lovers,1960,Drama,Jack Cardiff,7.1,103,United Kingdom,English
+0054353,The Sundowners,1960,"Drama, Western",Fred Zinnemann,7.1,133,"United Kingdom, United States, Australia",English
+0054866,Fanny,1961,"Drama, Romance",Joshua Logan,6.8,134,United States,English
+0054953,The Guns of Navarone,1961,"Action, Adventure, Drama, War",J. Lee Thompson,7.5,158,"United Kingdom, United States","English, Greek, German, Latin"
+0054997,The Hustler,1961,"Drama, Sport",Robert Rossen,7.9,134,United States,English
+0055031,Judgment at Nuremberg,1961,"Drama, War",Stanley Kramer,8.3,179,United States,"English, German"
+0055614,West Side Story,1961,"Crime, Drama, Musical, Romance","Jerome Robbins, Robert Wise",7.6,153,United States,"English, Spanish"
+0056172,Lawrence of Arabia,1962,"Adventure, Biography, Drama, War",David Lean,8.3,227,"United Kingdom, United States","English, Arabic, Turkish"
+0056197,The Longest Day,1962,"Action, Drama, History, War","Andrew Marton, Bernhard Wicki, Darryl F. Zanuck, Gerd Oswald, Ken Annakin",7.7,178,United States,"English, German, French"
+0056262,The Music Man,1962,"Comedy, Family, Musical, Romance",Morton DaCosta,7.7,151,United States,English
+0056264,Mutiny on the Bounty,1962,"Adventure, Drama, History, Romance","Carol Reed, George Seaton, Lewis Milestone",7.2,178,United States,"English, Polynesian, French, Dutch"
+0056592,To Kill a Mockingbird,1962,"Crime, Drama",Robert Mulligan,8.3,129,United States,English
+0056825,America America,1963,"Adventure, Drama",Elia Kazan,7.7,174,United States,English
+0056937,Cleopatra,1963,"Biography, Drama, History, Romance","Joseph L. Mankiewicz, Rouben Mamoulian",7.0,320,"United States, Switzerland",English
+0056085,How the West Was Won,1962,"Action, Adventure, War, Western","George Marshall, Henry Hathaway, John Ford, Richard Thorpe",7.1,164,United States,"English, Arapaho"
+0057251,Lilies of the Field,1963,"Comedy, Drama",Ralph Nelson,7.5,94,United States,"English, German, Spanish"
+0057590,Tom Jones,1963,"Adventure, Comedy, History, Romance",Tony Richardson,6.4,129,United Kingdom,English
+0057877,Becket,1964,"Biography, Drama, History",Peter Glenville,7.7,148,"United Kingdom, United States","English, Latin, Welsh"
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Comedy, War",Stanley Kubrick,8.3,95,"United Kingdom, United States","English, Russian"
+0058331,Mary Poppins,1964,"Comedy, Family, Fantasy, Musical",Robert Stevenson,7.8,139,United States,English
+0058385,My Fair Lady,1964,"Drama, Family, Musical, Romance",George Cukor,7.7,170,United States,English
+0057831,Zorba the Greek,1964,"Comedy, Drama",Michael Cacoyannis,7.6,142,"United States, Greece","English, Greek"
+0059084,Darling,1965,"Drama, Romance",John Schlesinger,7.0,128,United Kingdom,English
+0059113,Doctor Zhivago,1965,"Drama, Romance, War",David Lean,7.9,197,"Italy, United Kingdom, United States","English, Russian, French"
+0059712,Ship of Fools,1965,"Drama, Romance, War",Stanley Kramer,7.0,149,United States,"English, German, Spanish"
+0059742,The Sound of Music,1965,"Biography, Drama, Family, Musical, Romance",Robert Wise,8.1,172,United States,"English, German"
+0059798,A Thousand Clowns,1965,"Comedy, Drama, Romance",Fred Coe,7.3,118,United States,English
+0060086,Alfie,1966,"Comedy, Drama",Lewis Gilbert,7.0,114,United Kingdom,English
+0060665,A Man for All Seasons,1966,"Biography, Drama, History",Fred Zinnemann,7.7,120,United Kingdom,"English, Latin, Spanish, French"
+0060921,The Russians Are Coming the Russians Are Coming,1966,"Comedy, War",Norman Jewison,7.0,126,United States,"English, Russian"
+0060934,The Sand Pebbles,1966,"Adventure, Drama, Romance, War",Robert Wise,7.5,182,United States,"English, Mandarin"
+0061184,Who's Afraid of Virginia Woolf?,1966,Drama,Mike Nichols,8.0,131,United States,"English, Latin, Spanish"
+0061418,Bonnie and Clyde,1967,"Action, Biography, Crime, Drama",Arthur Penn,7.7,111,United States,English
+0061584,Doctor Dolittle,1967,"Adventure, Comedy, Family, Fantasy, Musical, Romance",Richard Fleischer,6.2,152,United States,English
+0061722,The Graduate,1967,"Comedy, Drama, Romance",Mike Nichols,8.0,106,United States,English
+0061735,Guess Who's Coming to Dinner,1967,"Comedy, Drama",Stanley Kramer,7.8,108,United States,"English, Latin"
+0061811,In the Heat of the Night,1967,"Drama, Mystery, Thriller",Norman Jewison,7.9,110,United States,English
+0062994,Funny Girl,1968,"Biography, Comedy, Drama, Musical, Romance",William Wyler,7.4,151,United States,English
+0063227,The Lion in Winter,1968,"Biography, Drama, History",Anthony Harvey,7.8,134,United Kingdom,"English, French, Latin"
+0063385,Oliver!,1968,"Drama, Family, Musical",Carol Reed,7.4,153,United Kingdom,English
+0063483,"Rachel, Rachel",1968,"Drama, Romance",Paul Newman,7.1,101,United States,English
+0063518,Romeo and Juliet,1968,"Drama, Romance",Franco Zeffirelli,7.6,138,"United Kingdom, Italy","English, French"
+0064030,Anne of the Thousand Days,1969,"Biography, Drama, History",Charles Jarrott,7.4,145,United Kingdom,English
+0064115,Butch Cassidy and the Sundance Kid,1969,"Biography, Crime, Drama, Western",George Roy Hill,8.0,110,"United States, Mexico","English, Spanish"
+0064418,"Hello, Dolly!",1969,"Adventure, Comedy, Musical, Romance",Gene Kelly,7.0,146,United States,English
+0064665,Midnight Cowboy,1969,Drama,John Schlesinger,7.8,113,United States,"English, Italian"
+0065234,Z,1969,"Crime, Drama, Thriller",Costa-Gavras,8.1,127,"France, Algeria","French, Russian, English"
+0065377,Airport,1970,"Action, Drama, Thriller","George Seaton, Henry Hathaway",6.6,137,United States,"English, Italian"
+0065724,Five Easy Pieces,1970,Drama,Bob Rafelson,7.4,98,United States,English
+0066011,Love Story,1970,"Drama, Romance",Arthur Hiller,6.9,100,United States,English
+0066026,M*A*S*H,1970,"Comedy, Drama, War",Robert Altman,7.3,116,United States,"English, Japanese, Korean, Latin"
+0066206,Patton,1970,"Biography, Drama, War",Franklin J. Schaffner,7.9,172,United States,"English, German, French, Russian, Arabic, Italian"
+0066921,A Clockwork Orange,1971,"Crime, Sci-Fi",Stanley Kubrick,8.2,136,"United Kingdom, United States",English
+0067093,Fiddler on the Roof,1971,"Drama, Family, Musical, Romance",Norman Jewison,8.0,181,United States,"English, Hebrew, Russian"
+0067116,The French Connection,1971,"Action, Crime, Drama, Thriller",William Friedkin,7.7,104,United States,"English, French, Italian"
+0067328,The Last Picture Show,1971,"Drama, Romance",Peter Bogdanovich,8.0,118,United States,English
+0067483,Nicholas and Alexandra,1971,"Biography, Drama, History, War",Franklin J. Schaffner,7.2,183,United Kingdom,"English, French, German, Russian"
+0068327,Cabaret,1972,"Drama, Music, Musical, Romance",Bob Fosse,7.8,124,United States,"English, German, Hebrew, French"
+0068473,Deliverance,1972,"Adventure, Drama, Thriller",John Boorman,7.6,109,United States,English
+0067919,The Emigrants,1971,"Drama, History",Jan Troell,8.0,191,Sweden,"Swedish, English, Danish"
+0068646,The Godfather,1972,"Crime, Drama",Francis Ford Coppola,9.2,175,United States,"English, Italian, Latin"
+0069303,Sounder,1972,"Drama, Family",Martin Ritt,7.5,105,United States,English
+0069704,American Graffiti,1973,"Comedy, Drama",George Lucas,7.4,110,United States,English
+0069467,Cries & Whispers,1972,Drama,Ingmar Bergman,7.9,92,Sweden,"Swedish, German, Danish"
+0070047,The Exorcist,1973,Horror,William Friedkin,8.1,122,United States,"English, Latin, Greek, French, German, Arabic, Kurdish"
+0070735,The Sting,1973,"Comedy, Crime, Drama",George Roy Hill,8.2,129,United States,English
+0070819,A Touch of Class,1973,"Comedy, Romance",Melvin Frank,6.5,106,United Kingdom,"English, Spanish"
+0071315,Chinatown,1974,"Drama, Mystery, Thriller",Roman Polanski,8.1,130,United States,"English, Cantonese, Spanish"
+0071360,The Conversation,1974,"Drama, Mystery, Thriller",Francis Ford Coppola,7.7,113,United States,English
+0071562,The Godfather Part II,1974,"Crime, Drama",Francis Ford Coppola,9.0,202,United States,"English, Italian, Spanish, Latin, Sicilian"
+0071746,Lenny,1974,"Biography, Drama",Bob Fosse,7.5,111,United States,English
+0072308,The Towering Inferno,1974,"Action, Drama, Thriller",John Guillermin,7.0,165,United States,English
+0072684,Barry Lyndon,1975,"Adventure, Drama, War",Stanley Kubrick,8.1,185,"United Kingdom, United States","English, German, French"
+0072890,Dog Day Afternoon,1975,"Biography, Crime, Drama, Thriller",Sidney Lumet,8.0,125,United States,English
+0073195,Jaws,1975,"Adventure, Drama, Horror, Thriller",Steven Spielberg,8.1,124,United States,English
+0073440,Nashville,1975,"Comedy, Drama, Music",Robert Altman,7.6,160,United States,English
+0073486,One Flew Over the Cuckoo's Nest,1975,Drama,Milos Forman,8.7,133,United States,English
+0074119,All the President's Men,1976,"Drama, History, Thriller",Alan J. Pakula,7.9,138,United States,"English, Spanish"
+0074235,Bound for Glory,1976,"Biography, Drama, Music",Hal Ashby,7.2,147,United States,English
+0074958,Network,1976,Drama,Sidney Lumet,8.1,121,United States,English
+0075148,Rocky,1976,"Drama, Sport",John G. Avildsen,8.1,120,United States,"English, Spanish, Italian"
+0075314,Taxi Driver,1976,"Crime, Drama",Martin Scorsese,8.2,114,United States,"English, Spanish"
+0075686,Annie Hall,1977,"Comedy, Romance",Woody Allen,7.9,93,United States,"English, German"
+0076095,The Goodbye Girl,1977,"Comedy, Drama, Romance",Herbert Ross,7.4,111,United States,"English, Japanese, German"
+0076245,Julia,1977,Drama,Fred Zinnemann,7.0,117,United States,"English, French, German, Russian"
+0076759,Star Wars: Episode IV - A New Hope,1977,"Action, Adventure, Fantasy, Sci-Fi",George Lucas,8.6,121,United States,English
+0076843,The Turning Point,1977,"Drama, Music, Romance",Herbert Ross,6.8,119,United States,"English, French"
+0077362,Coming Home,1978,"Drama, Romance, War",Hal Ashby,7.3,127,United States,English
+0077416,The Deer Hunter,1978,"Drama, War",Michael Cimino,8.1,183,"United States, United Kingdom","English, Vietnamese, French, Russian, Cantonese"
+0077663,Heaven Can Wait,1978,"Comedy, Fantasy, Romance, Sport","Buck Henry, Warren Beatty",6.9,101,United States,English
+0077928,Midnight Express,1978,"Biography, Crime, Drama, Thriller",Alan Parker,7.5,121,"United Kingdom, United States","English, Turkish, French"
+0078444,An Unmarried Woman,1978,"Comedy, Drama, Romance",Paul Mazursky,7.2,124,United States,English
+0078754,All That Jazz,1979,"Drama, Music, Musical",Bob Fosse,7.8,123,United States,"English, Spanish"
+0078788,Apocalypse Now,1979,"Drama, Mystery, War",Francis Ford Coppola,8.4,147,United States,"English, French, Vietnamese"
+0078902,Breaking Away,1979,"Comedy, Drama, Sport",Peter Yates,7.7,101,United States,"English, Italian, French"
+0079417,Kramer vs. Kramer,1979,Drama,Robert Benton,7.8,105,United States,English
+0079638,Norma Rae,1979,Drama,Martin Ritt,7.3,114,United States,English
+0080549,Coal Miner's Daughter,1980,"Biography, Drama, Music",Michael Apted,7.5,124,United States,English
+0080678,The Elephant Man,1980,"Biography, Drama",David Lynch,8.2,124,"United States, United Kingdom","English, French"
+0081283,Ordinary People,1980,Drama,Robert Redford,7.7,124,United States,English
+0081398,Raging Bull,1980,"Biography, Drama, Sport",Martin Scorsese,8.1,129,United States,English
+0080009,Tess,1979,"Drama, Romance",Roman Polanski,7.3,186,"United Kingdom, France",English
+0080388,Atlantic City,1980,"Crime, Drama, Romance",Louis Malle,7.3,104,"France, Canada","English, French"
+0082158,Chariots of Fire,1981,"Biography, Drama, Sport",Hugh Hudson,7.1,125,United Kingdom,"English, French"
+0082846,On Golden Pond,1981,Drama,Mark Rydell,7.6,109,United States,English
+0082971,Raiders of the Lost Ark,1981,"Action, Adventure",Steven Spielberg,8.4,115,United States,"English, German, Spanish, Nepali, Hebrew, Arabic"
+0082979,Reds,1981,"Biography, Drama, History, Romance",Warren Beatty,7.3,195,United States,"English, Russian, German, French, Finnish, Italian"
+0083866,E.T. the Extra-Terrestrial,1982,"Adventure, Family, Sci-Fi",Steven Spielberg,7.9,115,United States,English
+0083987,Gandhi,1982,"Biography, Drama, History",Richard Attenborough,8.0,191,"United Kingdom, India","English, Hindi"
+0084335,Missing,1982,"Biography, Drama, History, Mystery, Thriller",Costa-Gavras,7.7,122,"United States, Mexico","English, Spanish, French"
+0084805,Tootsie,1982,"Comedy, Drama, Romance",Sydney Pollack,7.4,116,United States,English
+0084855,The Verdict,1982,Drama,Sidney Lumet,7.7,129,United States,English
+0085244,The Big Chill,1983,"Comedy, Drama",Lawrence Kasdan,7.1,105,United States,English
+0085461,The Dresser,1983,Drama,Peter Yates,7.5,118,United Kingdom,English
+0086197,The Right Stuff,1983,"Adventure, Biography, Drama, History",Philip Kaufman,7.8,193,United States,"English, Russian, Spanish"
+0086423,Tender Mercies,1983,"Drama, Music",Bruce Beresford,7.3,92,United States,English
+0086425,Terms of Endearment,1983,"Comedy, Drama",James L. Brooks,7.4,132,United States,English
+0086879,Amadeus,1984,"Biography, Drama, Music",Milos Forman,8.4,160,"United States, France","English, Italian, Latin, German, French"
+0087553,The Killing Fields,1984,"Biography, Drama, History, War",Roland Joffé,7.8,141,United Kingdom,"English, French, Khmer, Russian"
+0087892,A Passage to India,1984,"Adventure, Drama, History",David Lean,7.3,164,"United Kingdom, United States","English, Hindi"
+0087921,Places in the Heart,1984,Drama,Robert Benton,7.4,111,United States,English
+0088146,A Soldier's Story,1984,"Crime, Drama, Mystery, War",Norman Jewison,7.2,101,United States,English
+0088939,The Color Purple,1985,Drama,Steven Spielberg,7.7,154,United States,English
+0089424,Kiss of the Spider Woman,1985,Drama,Hector Babenco,7.3,120,"Brazil, United States","English, French, Portuguese, German"
+0089755,Out of Africa,1985,"Biography, Drama, Romance",Sydney Pollack,7.1,161,United States,"English, Swahili, Arabic"
+0089841,Prizzi's Honor,1985,"Comedy, Crime, Drama, Romance",John Huston,6.7,130,United States,"English, Italian, Spanish"
+0090329,Witness,1985,"Drama, Romance, Thriller",Peter Weir,7.3,112,United States,"English, German"
+0090830,Children of a Lesser God,1986,"Drama, Romance",Randa Haines,7.2,119,United States,"English, American Sign Language"
+0091167,Hannah and Her Sisters,1986,"Comedy, Drama",Woody Allen,7.8,107,United States,English
+0091530,The Mission,1986,"Adventure, Drama, History",Roland Joffé,7.4,125,"United Kingdom, France, United States","English, Guarani, Spanish, Latin"
+0091763,Platoon,1986,"Drama, War",Oliver Stone,8.1,120,"United States, United Kingdom","English, Vietnamese"
+0091867,A Room with a View,1985,"Drama, Romance",James Ivory,7.2,117,"United Kingdom, United States","English, Italian"
+0092699,Broadcast News,1987,"Comedy, Drama, Romance",James L. Brooks,7.3,133,United States,"English, Spanish, French, German"
+0093010,Fatal Attraction,1987,"Drama, Thriller",Adrian Lyne,6.9,119,United States,English
+0093209,Hope and Glory,1987,"Comedy, Drama, Romance",John Boorman,7.3,113,"United Kingdom, United States",English
+0093389,The Last Emperor,1987,"Biography, Drama, History",Bernardo Bertolucci,7.7,163,"China, Italy, United Kingdom, France","English, Mandarin, Japanese, French"
+0093565,Moonstruck,1987,"Comedy, Drama, Romance",Norman Jewison,7.2,102,United States,"English, Italian, Latin"
+0094606,The Accidental Tourist,1988,"Comedy, Drama, Romance",Lawrence Kasdan,6.7,121,United States,English
+0094947,Dangerous Liaisons,1988,"Drama, Romance",Stephen Frears,7.5,119,"United Kingdom, United States",English
+0095647,Mississippi Burning,1988,"Crime, Drama, Mystery, Thriller",Alan Parker,7.8,128,United States,English
+0095953,Rain Man,1988,Drama,Barry Levinson,8.0,133,United States,"English, Italian"
+0096463,Working Girl,1988,"Comedy, Drama, Romance",Mike Nichols,6.8,113,United States,English
+0096969,Born on the Fourth of July,1989,"Biography, Drama, War",Oliver Stone,7.2,145,United States,"English, Spanish"
+0097165,Dead Poets Society,1989,"Comedy, Drama",Peter Weir,8.1,128,United States,"English, Latin, French"
+0097239,Driving Miss Daisy,1989,"Comedy, Drama",Bruce Beresford,7.3,99,United States,"English, Hebrew"
+0097351,Field of Dreams,1989,"Drama, Family, Fantasy, Sport",Phil Alden Robinson,7.5,107,United States,English
+0097937,My Left Foot,1989,"Biography, Drama",Jim Sheridan,7.8,103,"Ireland, United Kingdom",English
+0099077,Awakenings,1990,"Biography, Drama",Penny Marshall,7.8,121,United States,English
+0099348,Dances with Wolves,1990,"Adventure, Drama, Western",Kevin Costner,8.0,181,"United States, United Kingdom","English, Sioux, Pawnee"
+0099653,Ghost,1990,"Drama, Fantasy, Romance, Thriller",Jerry Zucker,7.1,126,United States,English
+0099674,The Godfather Part III,1990,"Crime, Drama",Francis Ford Coppola,7.6,162,United States,"English, Italian, German, Latin, Persian"
+0099685,Goodfellas,1990,"Biography, Crime, Drama",Martin Scorsese,8.7,145,United States,"English, Italian, Hebrew, Yiddish"
+0101414,Beauty and the Beast,1991,"Animation, Family, Fantasy, Musical, Romance","Gary Trousdale, Kirk Wise",8.0,84,"United States, Japan","English, French"
+0101516,Bugsy,1991,"Biography, Crime, Drama",Barry Levinson,6.8,136,United States,English
+0102138,JFK,1991,"Drama, History, Thriller",Oliver Stone,8.0,189,"United States, France","English, Spanish"
+0102713,The Prince of Tides,1991,"Drama, Romance",Barbra Streisand,6.8,132,United States,English
+0102926,The Silence of the Lambs,1991,"Crime, Drama, Horror, Thriller",Jonathan Demme,8.6,118,United States,"English, Latin"
+0104036,The Crying Game,1992,"Crime, Drama, Romance, Thriller",Neil Jordan,7.2,112,"United Kingdom, Japan",English
+0104257,A Few Good Men,1992,"Drama, Thriller",Rob Reiner,7.7,138,United States,"English, French"
+0104454,Howards End,1992,"Drama, Romance",James Ivory,7.4,142,"United Kingdom, Japan, United States","English, German"
+0105323,Scent of a Woman,1992,Drama,Martin Brest,8.0,156,United States,English
+0105695,Unforgiven,1992,"Drama, Western",Clint Eastwood,8.2,130,United States,English
+0106977,The Fugitive,1993,"Action, Crime, Drama, Mystery, Thriller",Andrew Davis,7.8,130,United States,"English, Polish, Spanish"
+0107207,In the Name of the Father,1993,"Biography, Crime, Drama",Jim Sheridan,8.1,133,"Ireland, United Kingdom, United States",English
+0107822,The Piano,1993,"Drama, Music, Romance",Jane Campion,7.5,121,"New Zealand, Australia, France","English, British Sign Language, Maori"
+0107943,The Remains of the Day,1993,"Drama, Romance",James Ivory,7.8,134,"United States, United Kingdom","English, French, German"
+0108052,Schindler's List,1993,"Biography, Drama, History",Steven Spielberg,9.0,195,United States,"English, Hebrew, German, Polish, Latin"
+0109830,Forrest Gump,1994,"Drama, Romance",Robert Zemeckis,8.8,142,United States,English
+0109831,Four Weddings and a Funeral,1994,"Comedy, Drama, Romance",Mike Newell,7.1,117,United Kingdom,"English, British Sign Language"
+0110912,Pulp Fiction,1994,"Crime, Drama",Quentin Tarantino,8.9,154,United States,"English, Spanish, French"
+0110932,Quiz Show,1994,"Biography, Drama, History",Robert Redford,7.5,133,United States,English
+0111161,The Shawshank Redemption,1994,Drama,Frank Darabont,9.3,142,United States,English
+0112384,Apollo 13,1995,"Adventure, Drama, History",Ron Howard,7.7,140,United States,English
+0112431,Babe,1995,"Comedy, Drama, Family",Chris Noonan,6.9,91,"Australia, United States, United Kingdom",English
+0112573,Braveheart,1995,"Biography, Drama, War",Mel Gibson,8.3,178,United States,"English, French, Latin, Scottish Gaelic, Italian"
+0110877,The Postman,1994,"Biography, Comedy, Drama, Romance",Michael Radford,7.8,108,"Italy, France, Belgium","Italian, Spanish"
+0114388,Sense and Sensibility,1995,"Drama, Romance",Ang Lee,7.7,136,"United Kingdom, United States","English, French"
+0116209,The English Patient,1996,"Drama, Romance, War",Anthony Minghella,7.4,162,"United States, United Kingdom","English, German, Italian, Arabic"
+0116282,Fargo,1996,"Crime, Drama, Thriller","Ethan Coen, Joel Coen",8.1,98,"United Kingdom, United States",English
+0116695,Jerry Maguire,1996,"Comedy, Drama, Romance, Sport",Cameron Crowe,7.3,139,United States,"English, American Sign Language"
+0117589,Secrets & Lies,1996,"Comedy, Drama",Mike Leigh,8.0,136,"United Kingdom, France",English
+0117631,Shine,1996,"Biography, Drama, Music, Romance",Scott Hicks,7.6,105,Australia,"English, Yiddish"
+0119822,As Good as It Gets,1997,"Comedy, Drama, Romance",James L. Brooks,7.7,139,United States,English
+0119164,The Full Monty,1997,"Comedy, Drama",Peter Cattaneo,7.2,91,"United Kingdom, United States",English
+0119217,Good Will Hunting,1997,"Drama, Romance",Gus Van Sant,8.3,126,United States,English
+0119488,L.A. Confidential,1997,"Crime, Drama, Mystery, Thriller",Curtis Hanson,8.2,138,United States,English
+0120338,Titanic,1997,"Drama, Romance",James Cameron,7.9,194,United States,"English, Swedish, Italian, French"
+0127536,Elizabeth,1998,"Biography, Drama, History",Shekhar Kapur,7.4,124,"United Kingdom, United States","English, French, Turkish"
+0118799,Life Is Beautiful,1997,"Comedy, Drama, Romance, War",Roberto Benigni,8.6,116,Italy,"Italian, German, English"
+0120815,Saving Private Ryan,1998,"Drama, War",Steven Spielberg,8.6,169,United States,"English, French, German, Czech"
+0138097,Shakespeare in Love,1998,"Comedy, Drama, History, Romance",John Madden,7.1,123,"United Kingdom, United States",English
+0120863,The Thin Red Line,1998,"Drama, History, War",Terrence Malick,7.6,170,United States,"English, Tok Pisin, Japanese, Greek"
+0169547,American Beauty,1999,Drama,Sam Mendes,8.3,122,United States,English
+0124315,The Cider House Rules,1999,"Drama, Romance",Lasse Hallström,7.4,126,United States,English
+0120689,The Green Mile,1999,"Crime, Drama, Fantasy, Mystery",Frank Darabont,8.6,189,United States,"English, French"
+0140352,The Insider,1999,"Biography, Drama, History, Thriller",Michael Mann,7.8,157,United States,"English, Japanese, Arabic, Persian"
+0167404,The Sixth Sense,1999,"Drama, Mystery, Thriller",M. Night Shyamalan,8.2,107,United States,"English, Latin, Spanish"
+0241303,Chocolat,2000,"Drama, Romance",Lasse Hallström,7.2,121,"United Kingdom, United States","English, French"
+0190332,"Crouching Tiger, Hidden Dragon",2000,"Action, Adventure, Drama, Fantasy, Romance",Ang Lee,7.9,120,"China, Taiwan, Hong Kong, United States","Mandarin, Chinese"
+0195685,Erin Brockovich,2000,"Biography, Drama",Steven Soderbergh,7.5,131,United States,English
+0172495,Gladiator,2000,"Action, Adventure, Drama",Ridley Scott,8.5,155,"United States, United Kingdom, Malta, Morocco",English
+0181865,Traffic,2000,"Crime, Drama, Thriller",Steven Soderbergh,7.5,147,"Germany, United States","English, Spanish"
+0268978,A Beautiful Mind,2001,"Biography, Drama, Mystery",Ron Howard,8.2,135,United States,English
+0280707,Gosford Park,2001,"Comedy, Drama, Mystery",Robert Altman,7.2,137,"United Kingdom, Italy, United States","English, Latin"
+0247425,In the Bedroom,2001,"Crime, Drama",Todd Field,7.4,131,United States,"English, Serbo-Croatian"
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy",Peter Jackson,8.9,178,"New Zealand, United States, United Kingdom","English, Sindarin"
+0203009,Moulin Rouge!,2001,"Drama, Musical, Romance",Baz Luhrmann,7.6,127,"Australia, United States","English, French, Spanish"
+0299658,Chicago,2002,"Comedy, Crime, Musical",Rob Marshall,7.2,113,"United States, Germany","English, Hungarian"
+0217505,Gangs of New York,2002,"Crime, Drama",Martin Scorsese,7.5,167,"United States, Italy","English, Irish, Chinese, Latin"
+0274558,The Hours,2002,"Drama, Romance",Stephen Daldry,7.5,110,United States,English
+0167261,The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy",Peter Jackson,8.8,179,"New Zealand, United States","English, Sindarin, Old English"
+0253474,The Pianist,2002,"Biography, Drama, Music, War",Roman Polanski,8.5,150,"France, Poland, Germany, United Kingdom, United States","English, German, Russian"
+0167260,The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy",Peter Jackson,9.0,201,"New Zealand, United States","English, Quenya, Old English, Sindarin"
+0335266,Lost in Translation,2003,"Comedy, Drama",Sofia Coppola,7.7,102,"United States, Japan","English, Japanese, German, French"
+0311113,Master and Commander: The Far Side of the World,2003,"Action, Adventure, Drama, War",Peter Weir,7.5,138,United States,"English, French, Portuguese"
+0327056,Mystic River,2003,"Crime, Drama, Mystery, Thriller",Clint Eastwood,7.9,138,"United States, Australia",English
+0329575,Seabiscuit,2003,"Drama, History, Sport",Gary Ross,7.3,140,United States,English
+0338751,The Aviator,2004,"Biography, Drama",Martin Scorsese,7.5,170,"United States, Germany","English, Persian"
+0308644,Finding Neverland,2004,"Biography, Drama, Family",Marc Forster,7.6,106,"United States, United Kingdom",English
+0405159,Million Dollar Baby,2004,"Drama, Sport",Clint Eastwood,8.1,132,United States,"English, Irish, German"
+0350258,Ray,2004,"Biography, Drama, Music",Taylor Hackford,7.7,152,United States,English
+0375063,Sideways,2004,"Comedy, Drama, Romance",Alexander Payne,7.5,127,United States,"English, Armenian, French"
+0388795,Brokeback Mountain,2005,"Drama, Romance",Ang Lee,7.7,134,"Canada, United States","English, Spanish"
+0379725,Capote,2005,"Biography, Crime, Drama, History",Bennett Miller,7.3,114,"United States, Canada",English
+0375679,Crash,2004,"Crime, Drama, Thriller",Paul Haggis,7.7,112,"United States, Germany","English, Persian, Spanish, Mandarin, Korean"
+0433383,"Good Night, and Good Luck.",2005,"Biography, Drama, History",George Clooney,7.4,93,"United Kingdom, France, Japan, United States",English
+0408306,Munich,2005,"Drama, History, Thriller",Steven Spielberg,7.5,164,"France, Canada, United States","English, German, French, Hebrew, Arabic, Italian, Greek, Russian, Dutch"
+0449467,Babel,2006,Drama,Alejandro G. Iñárritu,7.5,143,"United States, Mexico, France, Japan","English, Arabic, Spanish, Japanese, Berber languages, French, Russian, Japanese Sign Language"
+0407887,The Departed,2006,"Crime, Drama, Thriller",Martin Scorsese,8.5,151,"United States, Hong Kong","English, Cantonese"
+0498380,Letters from Iwo Jima,2006,"Action, Adventure, Drama, History, War",Clint Eastwood,7.8,141,United States,"Japanese, English"
+0449059,Little Miss Sunshine,2006,"Comedy, Drama","Jonathan Dayton, Valerie Faris",7.8,101,United States,English
+0436697,The Queen,2006,"Biography, Drama",Stephen Frears,7.3,103,"United Kingdom, United States, France, Italy","English, German, French"
+0783233,Atonement,2007,"Drama, Mystery, Romance, War",Joe Wright,7.8,123,"United Kingdom, France, United States","English, French"
+0467406,Juno,2007,"Comedy, Drama",Jason Reitman,7.4,96,"United States, Canada","English, Spanish"
+0465538,Michael Clayton,2007,"Crime, Drama, Mystery, Thriller",Tony Gilroy,7.2,119,United States,English
+0477348,No Country for Old Men,2007,"Crime, Drama, Thriller","Ethan Coen, Joel Coen",8.2,122,United States,"English, Spanish"
+0469494,There Will Be Blood,2007,Drama,Paul Thomas Anderson,8.2,158,United States,"English, American Sign Language"
+0421715,The Curious Case of Benjamin Button,2008,"Drama, Fantasy, Romance",David Fincher,7.8,166,United States,"English, Russian, French"
+0870111,Frost/Nixon,2008,"Biography, Drama, History",Ron Howard,7.6,122,"United States, United Kingdom, France",English
+1013753,Milk,2008,"Biography, Drama, History",Gus Van Sant,7.5,128,United States,English
+0976051,The Reader,2008,"Drama, Mystery, Romance",Stephen Daldry,7.6,124,"Germany, United States","English, German, Greek, Latin"
+1010048,Slumdog Millionaire,2008,"Crime, Drama, Romance","Danny Boyle, Loveleen Tandan",8.0,120,"United Kingdom, France, United States, India","English, Hindi"
+0499549,Avatar,2009,"Action, Adventure, Fantasy, Sci-Fi",James Cameron,7.9,162,"United States, United Kingdom","English, Spanish"
+0878804,The Blind Side,2009,"Biography, Drama, Sport",John Lee Hancock,7.6,129,United States,English
+1136608,District 9,2009,"Action, Sci-Fi, Thriller",Neill Blomkamp,7.9,112,"South Africa, United States, New Zealand, Canada","English, Nyanja, Afrikaans, Zulu, Xhosa, Southern Sotho"
+1174732,An Education,2009,Drama,Lone Scherfig,7.2,100,"United Kingdom, United States","English, French"
+0887912,The Hurt Locker,2008,"Drama, Thriller, War",Kathryn Bigelow,7.5,131,"United States, Luxembourg, Canada","English, Arabic"
+0361748,Inglourious Basterds,2009,"Adventure, Drama, War",Quentin Tarantino,8.4,153,"United States, Germany","English, German, French, Italian"
+0929632,Precious,2009,Drama,Lee Daniels,7.3,110,United States,"English, Italian"
+1019452,A Serious Man,2009,"Comedy, Drama","Ethan Coen, Joel Coen",7.0,106,"United Kingdom, France, United States","English, Yiddish, Hebrew"
+1049413,Up,2009,"Animation, Adventure, Comedy, Drama, Family","Bob Peterson, Pete Docter",8.3,96,United States,English
+1193138,Up in the Air,2009,"Comedy, Drama, Romance",Jason Reitman,7.4,109,United States,English
+0947798,Black Swan,2010,"Drama, Thriller",Darren Aronofsky,8.0,108,United States,"English, French, Italian"
+0964517,The Fighter,2010,"Action, Biography, Drama, Sport",David O. Russell,7.8,116,United States,English
+1375666,Inception,2010,"Action, Adventure, Sci-Fi, Thriller",Christopher Nolan,8.8,148,"United States, United Kingdom","English, Japanese, French"
+0842926,The Kids Are All Right,2010,"Comedy, Drama, Romance",Lisa Cholodenko,7.0,106,"United States, France",English
+1504320,The King's Speech,2010,"Biography, Drama, History",Tom Hooper,8.0,118,"United States, United Kingdom",English
+1542344,127 Hours,2010,"Biography, Drama",Danny Boyle,7.5,94,"United Kingdom, United States, France","English, Italian"
+1285016,The Social Network,2010,"Biography, Drama",David Fincher,7.8,120,United States,"English, French"
+0435761,Toy Story 3,2010,"Animation, Adventure, Comedy, Family, Fantasy",Lee Unkrich,8.3,103,United States,"English, Spanish"
+1403865,True Grit,2010,"Drama, Western","Ethan Coen, Joel Coen",7.6,110,United States,English
+1399683,Winter's Bone,2010,"Crime, Drama, Mystery, Thriller",Debra Granik,7.1,100,United States,English
+1655442,The Artist,2011,"Comedy, Drama, Romance",Michel Hazanavicius,7.8,100,"France, Belgium, United States","English, French"
+1033575,The Descendants,2011,"Comedy, Drama",Alexander Payne,7.3,115,United States,English
+0477302,Extremely Loud & Incredibly Close,2011,"Adventure, Drama, Mystery",Stephen Daldry,6.9,129,United States,English
+1454029,The Help,2011,Drama,Tate Taylor,8.1,146,"United States, India",English
+0970179,Hugo,2011,"Adventure, Drama, Family, Fantasy, Mystery",Martin Scorsese,7.5,126,"United States, United Kingdom",English
+1605783,Midnight in Paris,2011,"Comedy, Fantasy, Romance",Woody Allen,7.6,94,"Spain, United States, France","English, French, Spanish, German"
+1210166,Moneyball,2011,"Biography, Drama, Sport",Bennett Miller,7.6,133,United States,English
+0478304,The Tree of Life,2011,"Drama, Fantasy",Terrence Malick,6.8,139,United States,English
+1568911,War Horse,2011,"Adventure, Drama, War",Steven Spielberg,7.2,146,"United States, India","English, German"
+1602620,Amour,2012,Drama,Michael Haneke,7.9,127,"France, Germany, Austria","French, English"
+1024648,Argo,2012,"Biography, Drama, History, Thriller",Ben Affleck,7.7,120,"United Kingdom, United States","English, Persian, German, Arabic"
+2125435,Beasts of the Southern Wild,2012,"Adventure, Drama, Fantasy",Benh Zeitlin,7.2,93,United States,English
+1853728,Django Unchained,2012,Western,Quentin Tarantino,8.5,165,United States,"English, German, French, Italian"
+1707386,Les Misérables,2012,"Drama, Musical, Romance",Tom Hooper,7.5,158,"United Kingdom, United States",English
+0454876,Life of Pi,2012,"Adventure, Drama, Fantasy",Ang Lee,7.9,127,"United States, Taiwan, United Kingdom, Canada, India, France","English, Hindi, Japanese, French"
+0443272,Lincoln,2012,"Biography, Drama, History, War",Steven Spielberg,7.3,150,"United States, India",English
+1045658,Silver Linings Playbook,2012,"Comedy, Drama, Romance",David O. Russell,7.7,122,United States,"English, Hindi"
+1790885,Zero Dark Thirty,2012,"Drama, History, Thriller",Kathryn Bigelow,7.4,157,"United States, India, Jordan","English, Arabic, Urdu, Pashto, French"
+1800241,American Hustle,2013,"Crime, Drama",David O. Russell,7.2,138,"United States, China","English, Arabic"
+1535109,Captain Phillips,2013,"Action, Biography, Crime, Drama, Thriller",Paul Greengrass,7.8,134,"United States, United Kingdom, Malta","English, Somali"
+0790636,Dallas Buyers Club,2013,"Biography, Drama",Jean-Marc Vallée,7.9,117,United States,"English, Japanese"
+1454468,Gravity,2013,"Drama, Sci-Fi, Thriller",Alfonso Cuarón,7.7,91,"United Kingdom, United States","English, Kalaallisut"
+1798709,Her,2013,"Drama, Romance, Sci-Fi",Spike Jonze,8.0,126,United States,English
+1821549,Nebraska,2013,Drama,Alexander Payne,7.7,115,United States,"English, Spanish"
+2431286,Philomena,2013,"Biography, Comedy, Drama",Stephen Frears,7.6,98,"United Kingdom, France, United States",English
+2024544,12 Years a Slave,2013,"Biography, Drama, History",Steve McQueen,8.1,134,"United Kingdom, United States",English
+0993846,The Wolf of Wall Street,2013,"Biography, Comedy, Crime, Drama",Martin Scorsese,8.2,180,United States,"English, French"
+2179136,American Sniper,2014,"Action, Biography, Drama, War",Clint Eastwood,7.3,133,United States,"English, Arabic"
+2562232,Birdman or (The Unexpected Virtue of Ignorance),2014,"Comedy, Drama",Alejandro G. Iñárritu,7.7,119,United States,English
+1065073,Boyhood,2014,Drama,Richard Linklater,7.9,165,United States,"English, Spanish, Ukrainian, Arabic"
+2278388,The Grand Budapest Hotel,2014,"Comedy, Drama",Wes Anderson,8.1,99,"United States, Germany","English, French, German"
+2084970,The Imitation Game,2014,"Biography, Drama, Thriller, War",Morten Tyldum,8.0,114,United States,"English, German"
+1020072,Selma,2014,"Biography, Drama, History",Ava DuVernay,7.5,128,"United States, United Kingdom, France","English, Portuguese"
+2980516,The Theory of Everything,2014,"Biography, Drama, Romance",James Marsh,7.7,123,"United Kingdom, Japan, United States","English, French, Ukrainian"
+2582802,Whiplash,2014,"Drama, Music",Damien Chazelle,8.5,106,United States,English
+1596363,The Big Short,2015,"Biography, Comedy, Drama, History",Adam McKay,7.8,130,United States,English
+3682448,Bridge of Spies,2015,"Drama, History, Thriller, War",Steven Spielberg,7.6,142,"United States, India, Germany","English, German, Russian"
+2381111,Brooklyn,2015,"Drama, Romance",John Crowley,7.5,117,"Ireland, United Kingdom, Canada, United States","English, Latin, Irish"
+1392190,Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi, Thriller",George Miller,8.1,120,"Australia, United States","English, Russian"
+3659388,The Martian,2015,"Adventure, Drama, Sci-Fi",Ridley Scott,8.0,144,"United States, United Kingdom, Hungary, Jordan","English, Mandarin"
+1663202,The Revenant,2015,"Adventure, Drama, Western",Alejandro G. Iñárritu,8.0,156,"United States, Hong Kong, Taiwan, Argentina","English, Pawnee, French"
+3170832,Room,2015,"Drama, Thriller",Lenny Abrahamson,8.1,118,"Ireland, Canada, United Kingdom, United States",English
+1895587,Spotlight,2015,"Biography, Crime, Drama",Tom McCarthy,8.1,129,United States,English
+2543164,Arrival,2016,"Drama, Mystery, Sci-Fi",Denis Villeneuve,7.9,116,"United States, Canada","English, Mandarin, Russian"
+2671706,Fences,2016,Drama,Denzel Washington,7.2,139,"United States, Canada",English
+2119532,Hacksaw Ridge,2016,"Biography, Drama, History, War",Mel Gibson,8.1,139,United States,"English, Japanese"
+2582782,Hell or High Water,2016,"Crime, Drama, Thriller, Western",David Mackenzie,7.6,102,United States,English
+4846340,Hidden Figures,2016,"Biography, Drama, History",Theodore Melfi,7.8,127,United States,English
+3783958,La La Land,2016,"Comedy, Drama, Music, Musical, Romance",Damien Chazelle,8.0,128,"United States, Hong Kong","English, Cantonese"
+3741834,Lion,2016,"Biography, Drama",Garth Davis,8.0,118,"United Kingdom, Australia, United States","English, Hindi, Bangla"
+4034228,Manchester by the Sea,2016,Drama,Kenneth Lonergan,7.8,137,United States,English
+4975722,Moonlight,2016,Drama,Barry Jenkins,7.4,111,United States,English
+5726616,Call Me by Your Name,2017,"Drama, Romance",Luca Guadagnino,7.8,132,"Brazil, France, Italy, United States","English, Italian, French, German, Hebrew"
+4555426,Darkest Hour,2017,"Biography, Drama, History, War",Joe Wright,7.4,125,"United Kingdom, United States, China","English, French, German, Italian"
+5013056,Dunkirk,2017,"Action, Drama, History, Thriller, War",Christopher Nolan,7.8,106,"United Kingdom, Netherlands, France, United States","English, French, German"
+5052448,Get Out,2017,"Horror, Mystery, Thriller",Jordan Peele,7.8,104,"United States, Japan","English, Swahili"
+4925292,Lady Bird,2017,"Comedy, Drama",Greta Gerwig,7.4,94,United States,"English, Spanish"
+5776858,Phantom Thread,2017,"Drama, Romance",Paul Thomas Anderson,7.4,130,"United States, China","English, French"
+6294822,The Post,2017,"Biography, Drama, History, Thriller, War",Steven Spielberg,7.2,116,"United States, India",English
+5580390,The Shape of Water,2017,"Drama, Fantasy, Romance, Sci-Fi",Guillermo del Toro,7.3,123,"United States, Mexico","English, American Sign Language, Russian, French"
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,"Comedy, Crime, Drama",Martin McDonagh,8.1,115,"United Kingdom, United States",English
+1825683,Black Panther,2018,"Action, Adventure, Sci-Fi",Ryan Coogler,7.3,134,United States,"English, Swahili, Nama, Xhosa, Korean"
+7349662,BlacKkKlansman,2018,"Biography, Comedy, Crime, Drama",Spike Lee,7.5,135,"United States, China",English
+1727824,Bohemian Rhapsody,2018,"Biography, Drama, Music",Bryan Singer,7.9,134,"United Kingdom, United States","English, British Sign Language"
+5083738,The Favourite,2018,"Biography, Comedy, Drama, History",Yorgos Lanthimos,7.5,119,"Ireland, United Kingdom, United States",English
+6966692,Green Book,2018,"Biography, Comedy, Drama, Music",Peter Farrelly,8.2,130,"United States, China","English, Italian, Russian, German"
+6155172,Roma,2018,Drama,Alfonso Cuarón,7.6,135,"Mexico, United States","Spanish, Mixtec, English, Japanese, German, French, Norwegian"
+1517451,A Star Is Born,2018,"Drama, Music, Romance",Bradley Cooper,7.6,136,United States,"English, French"
+6266538,Vice,2018,"Biography, Comedy, Drama, History",Adam McKay,7.2,132,United States,"English, Arabic"
+1950186,Ford v Ferrari,2019,"Action, Biography, Drama, Sport",James Mangold,8.1,152,United States,"English, Italian, French, Japanese"
+1302006,The Irishman,2019,"Biography, Crime, Drama, History, Thriller",Martin Scorsese,7.8,209,United States,"English, Italian, Latin, Spanish, German"
+2584384,Jojo Rabbit,2019,"Comedy, Drama, War",Taika Waititi,7.9,108,"Czechia, New Zealand, United States, Germany","English, German"
+7286456,Joker,2019,"Crime, Drama, Thriller",Todd Phillips,8.3,122,"United States, Canada, Australia","English, German"
+3281548,Little Women,2019,"Drama, Romance",Greta Gerwig,7.8,135,United States,"English, French"
+7653254,Marriage Story,2019,"Drama, Romance",Noah Baumbach,7.9,137,"United Kingdom, United States","English, Spanish"
+8579674,1917,2019,"Action, Drama, War",Sam Mendes,8.2,119,"United Kingdom, United States, India, Spain, Canada","English, French, German"
+7131622,Once Upon a Time... in Hollywood,2019,"Comedy, Drama",Quentin Tarantino,7.6,161,"United States, United Kingdom, China","English, Italian, Spanish, German"
+6751668,Parasite,2019,"Drama, Thriller",Bong Joon Ho,8.5,132,South Korea,"Korean, English"
+10272386,The Father,2020,"Drama, Mystery",Florian Zeller,8.2,97,"United Kingdom, France, United States",English
+9784798,Judas and the Black Messiah,2021,"Biography, Drama, History",Shaka King,7.4,126,United States,English
+10618286,Mank,2020,"Biography, Drama",David Fincher,6.8,131,United States,"English, German, Latin"
+10633456,Minari,2020,Drama,Lee Isaac Chung,7.4,115,United States,"Korean, English"
+9770150,Nomadland,2020,Drama,Chloé Zhao,7.3,107,United States,English
+9620292,Promising Young Woman,2020,"Crime, Drama, Mystery, Thriller",Emerald Fennell,7.5,113,"United Kingdom, United States",English
+5363618,Sound of Metal,2019,"Drama, Music",Darius Marder,7.7,120,United States,"English, American Sign Language, French, Persian"
+1070874,The Trial of the Chicago 7,2020,"Drama, History, Thriller",Aaron Sorkin,7.7,129,"United States, United Kingdom, India","English, Latin, French"
+12789558,Belfast,2021,"Biography, Drama, Romance",Kenneth Branagh,7.2,98,United Kingdom,English
+10366460,CODA,2021,"Comedy, Drama, Music",Sian Heder,8.0,111,"France, Canada, United States","American Sign Language, English"
+11286314,Don't Look Up,2021,"Comedy, Drama, Sci-Fi",Adam McKay,7.2,138,"United States, Canada",English
+14039582,Drive My Car,2021,Drama,Ryûsuke Hamaguchi,7.5,179,Japan,"Japanese, English, Korean Sign Language, Korean, Mandarin, Tagalog, Indonesian, German, Malay"
+1160419,Dune: Part One,2021,"Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,8.0,155,"United States, Canada","English, Mandarin"
+9620288,King Richard,2021,"Biography, Drama, Sport",Reinaldo Marcus Green,7.5,144,"United States, Australia","English, Spanish"
+11271038,Licorice Pizza,2021,"Comedy, Drama, Romance",Paul Thomas Anderson,7.1,133,"United States, Canada","English, Japanese, Spanish"
+7740496,Nightmare Alley,2021,"Crime, Drama, Thriller",Guillermo del Toro,7.0,150,"United States, Mexico, Canada","English, French"
+10293406,The Power of the Dog,2021,"Drama, Western",Jane Campion,6.8,126,"New Zealand, United Kingdom, Canada, Australia, United States","English, Shoshoni, Italian, French"
+3581652,West Side Story,2021,"Crime, Drama, Musical, Romance",Steven Spielberg,7.1,156,"United States, Canada, United Kingdom","English, Spanish"
+1016150,All Quiet on the Western Front,2022,"Drama, History, War",Edward Berger,7.8,148,"Germany, United States, United Kingdom","German, French"
+1630029,Avatar: The Way of Water,2022,"Action, Adventure, Fantasy, Sci-Fi",James Cameron,7.5,192,United States,English
+11813216,The Banshees of Inisherin,2022,"Comedy, Drama",Martin McDonagh,7.7,114,"Ireland, United Kingdom, United States","English, Latin"
+3704428,Elvis,2022,"Biography, Drama, Music",Baz Luhrmann,7.3,159,"United States, Australia",English
+6710474,Everything Everywhere All at Once,2022,"Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi","Daniel Kwan, Daniel Scheinert",7.8,139,United States,"English, Mandarin, Cantonese"
+14208870,The Fabelmans,2022,Drama,Steven Spielberg,7.5,151,"United States, India",English
+14444726,Tár,2022,"Drama, Music",Todd Field,7.4,158,United States,"English, German, Filipino, French"
+1745960,Top Gun: Maverick,2022,"Action, Drama",Joseph Kosinski,8.2,130,United States,English
+7322224,Triangle of Sadness,2022,"Comedy, Drama",Ruben Östlund,7.3,147,"United Kingdom, Sweden, Germany, Mexico, France, Turkey, Denmark, United States, Switzerland, Greece","English, Swedish, German, French, Greek, Tagalog, Akan"
+13669038,Women Talking,2022,Drama,Sarah Polley,6.9,104,United States,English
+23561236,American Fiction,2023,"Comedy, Drama",Cord Jefferson,7.5,117,United States,English
+17009710,Anatomy of a Fall,2023,"Crime, Drama, Thriller",Justine Triet,7.6,151,France,"French, English"
+1517268,Barbie,2023,"Adventure, Comedy, Fantasy",Greta Gerwig,6.8,114,"United States, United Kingdom","English, Spanish"
+14849194,The Holdovers,2023,"Comedy, Drama",Alexander Payne,7.9,133,United States,English
+5537002,Killers of the Flower Moon,2023,"Crime, Drama, History, Mystery, Romance, Western",Martin Scorsese,7.6,206,United States,"English, Osage, Latin, French"
+5535276,Maestro,2023,"Biography, Drama, History, Music, Romance",Bradley Cooper,6.5,129,"United States, Canada",English
+15398776,Oppenheimer,2023,"Biography, Drama, History",Christopher Nolan,8.3,180,"United States, United Kingdom","English, German, Italian, Dutch"
+13238346,Past Lives,2023,"Drama, Romance",Celine Song,7.8,105,"United States, South Korea","Korean, English, Mandarin, French"
+14230458,Poor Things,2023,"Comedy, Drama, Romance, Sci-Fi",Yorgos Lanthimos,7.8,141,"Ireland, United Kingdom, United States, Hungary","English, French, Portuguese"
+7160372,The Zone of Interest,2023,"Drama, History, War",Jonathan Glazer,7.3,105,"United Kingdom, Poland, United States","German, Yiddish, Polish"
+28607951,Anora,2024,"Comedy, Drama, Romance",Sean Baker,7.5,139,United States,"English, Russian, Armenian"
+8999762,The Brutalist,2024,Drama,Brady Corbet,7.4,216,"United States, United Kingdom, Canada","English, Hungarian, Italian, Hebrew, Yiddish, Russian, French"
+11563598,A Complete Unknown,2024,"Biography, Drama, Music",James Mangold,7.4,141,United States,English
+20215234,Conclave,2024,"Drama, Thriller",Edward Berger,7.4,120,"United Kingdom, United States","English, Italian, Spanish, Latin"
+15239678,Dune: Part Two,2024,"Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,8.5,166,"United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",English
+20221436,Emilia Pérez,2024,"Crime, Drama, Musical, Thriller",Jacques Audiard,5.4,132,"France, Mexico, Belgium","Spanish, English"
+14961016,I'm Still Here,2024,"Biography, Drama, History",Walter Salles,8.3,137,"Brazil, France","Portuguese, French"
+23055660,Nickel Boys,2024,Drama,RaMell Ross,7.0,140,United States,English
+17526714,The Substance,2024,"Drama, Horror, Sci-Fi",Coralie Fargeat,7.3,141,"United Kingdom, France",English
+1262426,Wicked,2024,"Fantasy, Musical, Romance",Jon M. Chu,7.5,160,"United States, Japan, Canada, Iceland, United Kingdom",English

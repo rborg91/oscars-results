@@ -5,7 +5,7 @@ import time
 # Improve data format for the full dataset and save it to a new CSV file
 # Also new column called IMDBid which is essentially FilmId without tt at
 # the beginning
-oscars_results = pd.read_csv("full_data.csv", sep=None)
+oscars_results = pd.read_csv("input/full_data.csv", sep=None)
 oscars_results = oscars_results.rename(columns={"FilmId": "IMDBid"})
 oscars_results["IMDBid"] = oscars_results["IMDBid"].str.replace("tt", "")
 # Place the IMDBid column at the beginning
@@ -19,7 +19,7 @@ oscars_results = oscars_results[
                                      "BEST PICTURE"])
                                 ]
 # Save the new dataframe to a CSV file
-oscars_results.to_csv("oscars_best_pictures.csv", index=False)
+oscars_results.to_csv("output/oscars_best_pictures.csv", index=False)
 
 # Retrieve the information on the unique IMDB ids from oscar_results
 # and write it to a new dataframe which will also be saved to a CSV file
@@ -56,4 +56,4 @@ for id in imdb_ids:
     time.sleep(1)  # Sleep for 1 second to avoid hitting the API too hard
 
 imdb_data = pd.DataFrame(imdb_data)
-imdb_data.to_csv("imdb_data.csv", index=False)
+imdb_data.to_csv("output/imdb_data.csv", index=False)

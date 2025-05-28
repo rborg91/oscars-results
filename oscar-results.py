@@ -1,5 +1,6 @@
 import pandas as pd
 from imdb import Cinemagoer
+import sqlite3
 import time
 
 # Improve data format for the full dataset and save it to a new CSV file
@@ -57,3 +58,13 @@ for id in imdb_ids:
 
 imdb_data = pd.DataFrame(imdb_data)
 imdb_data.to_csv("output/imdb_data.csv", index=False)
+
+# Create (or connect to) a SQLite database file
+conn = sqlite3.connect('output/results.db')
+
+# Write the data to tables in the SQLite database
+oscars_results.to_sql('best_pictures', conn, if_exists='replace', index=False)
+imdb_data.to_sql('imdb', conn, if_exists='replace', index=False)
+
+# Close the connection
+conn.close()

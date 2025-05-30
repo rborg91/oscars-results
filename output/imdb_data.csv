@@ -63,7 +63,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 0027698,The Great Ziegfeld,1936,"Drama, Musical",Robert Z. Leonard,6.6,176,United States,English
 0027884,Libeled Lady,1936,"Comedy, Romance",Jack Conway,7.8,98,United States,English
 0027996,Mr. Deeds Goes to Town,1936,"Comedy, Drama, Romance",Frank Capra,7.8,115,United States,English
-0028203,Romeo and Juliet,1936,"Drama, Romance",George Cukor,6.4,125,United States,English
+0028203,Romeo and Juliet,1936,"Drama, Romance",George Cukor,6.5,125,United States,English
 0028216,San Francisco,1936,"Drama, Music, Romance",W.S. Van Dyke,7.1,115,United States,English
 0028313,The Story of Louis Pasteur,1936,"Biography, Drama, History",William Dieterle,7.3,86,United States,"English, French, Russian"
 0027075,A Tale of Two Cities,1935,"Drama, History, Romance","Jack Conway, Robert Z. Leonard",7.8,128,United States,English
@@ -152,7 +152,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 0036910,Henry V,1944,"Biography, Drama, History, War",Laurence Olivier,7.0,137,United Kingdom,"English, French"
 0038650,It's a Wonderful Life,1946,"Drama, Family, Fantasy, Romance",Frank Capra,8.6,130,United States,"English, French"
 0038873,The Razor's Edge,1946,"Drama, Romance",Edmund Goulding,7.3,145,United States,"English, French"
-0039111,The Yearling,1946,"Drama, Family, Western",Clarence Brown,7.1,128,United States,English
+0039111,The Yearling,1946,"Drama, Family, Western",Clarence Brown,7.2,128,United States,English
 0039190,The Bishop's Wife,1947,"Comedy, Drama, Fantasy, Romance",Henry Koster,7.6,109,United States,"English, French"
 0039286,Crossfire,1947,"Crime, Drama, Film-Noir, Mystery",Edward Dmytryk,7.3,86,United States,English
 0039416,Gentleman's Agreement,1947,"Drama, Romance",Elia Kazan,7.2,118,United States,English
@@ -521,7 +521,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 1596363,The Big Short,2015,"Biography, Comedy, Drama, History",Adam McKay,7.8,130,United States,English
 3682448,Bridge of Spies,2015,"Drama, History, Thriller, War",Steven Spielberg,7.6,142,"United States, India, Germany","English, German, Russian"
 2381111,Brooklyn,2015,"Drama, Romance",John Crowley,7.5,117,"Ireland, United Kingdom, Canada, United States","English, Latin, Irish"
-1392190,Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi, Thriller",George Miller,8.1,120,"Australia, United States","English, Russian"
+1392190,Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi",George Miller,8.1,120,"Australia, United States","English, Russian"
 3659388,The Martian,2015,"Adventure, Drama, Sci-Fi",Ridley Scott,8.0,144,"United States, United Kingdom, Hungary, Jordan","English, Mandarin"
 1663202,The Revenant,2015,"Adventure, Drama, Western",Alejandro G. Iñárritu,8.0,156,"United States, Hong Kong, Taiwan, Argentina","English, Pawnee, French"
 3170832,Room,2015,"Drama, Thriller",Lenny Abrahamson,8.1,118,"Ireland, Canada, United Kingdom, United States",English
@@ -569,7 +569,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 9620292,Promising Young Woman,2020,"Crime, Drama, Mystery, Thriller",Emerald Fennell,7.5,113,"United Kingdom, United States",English
 5363618,Sound of Metal,2019,"Drama, Music",Darius Marder,7.7,120,United States,"English, American Sign Language, French, Persian"
 1070874,The Trial of the Chicago 7,2020,"Drama, History, Thriller",Aaron Sorkin,7.7,129,"United States, United Kingdom, India","English, Latin, French"
-12789558,Belfast,2021,"Biography, Drama, Romance",Kenneth Branagh,7.2,98,United Kingdom,English
+12789558,Belfast,2021,"Biography, Drama",Kenneth Branagh,7.2,98,United Kingdom,English
 10366460,CODA,2021,"Comedy, Drama, Music",Sian Heder,8.0,111,"France, Canada, United States","American Sign Language, English"
 11286314,Don't Look Up,2021,"Comedy, Drama, Sci-Fi",Adam McKay,7.2,138,"United States, Canada",English
 14039582,Drive My Car,2021,Drama,Ryûsuke Hamaguchi,7.5,179,Japan,"Japanese, English, Korean Sign Language, Korean, Mandarin, Tagalog, Indonesian, German, Malay"
@@ -593,7 +593,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 17009710,Anatomy of a Fall,2023,"Crime, Drama, Thriller",Justine Triet,7.6,151,France,"French, English"
 1517268,Barbie,2023,"Adventure, Comedy, Fantasy",Greta Gerwig,6.8,114,"United States, United Kingdom","English, Spanish"
 14849194,The Holdovers,2023,"Comedy, Drama",Alexander Payne,7.9,133,United States,English
-5537002,Killers of the Flower Moon,2023,"Crime, Drama, History, Mystery, Romance, Western",Martin Scorsese,7.6,206,United States,"English, Osage, Latin, French"
+5537002,Killers of the Flower Moon,2023,"Crime, Drama, History, Western",Martin Scorsese,7.6,206,United States,"English, Osage, Latin, French"
 5535276,Maestro,2023,"Biography, Drama, History, Music, Romance",Bradley Cooper,6.5,129,"United States, Canada",English
 15398776,Oppenheimer,2023,"Biography, Drama, History",Christopher Nolan,8.3,180,"United States, United Kingdom","English, German, Italian, Dutch"
 13238346,Past Lives,2023,"Drama, Romance",Celine Song,7.8,105,"United States, South Korea","Korean, English, Mandarin, French"
@@ -605,7 +605,7 @@ IMDBid,Title,Year,Genres,Directors,Rating,Runtime,Countries,Languages
 20215234,Conclave,2024,"Drama, Thriller",Edward Berger,7.4,120,"United Kingdom, United States","English, Italian, Spanish, Latin"
 15239678,Dune: Part Two,2024,"Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,8.5,166,"United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",English
 20221436,Emilia Pérez,2024,"Crime, Drama, Musical, Thriller",Jacques Audiard,5.4,132,"France, Mexico, Belgium","Spanish, English"
-14961016,I'm Still Here,2024,"Biography, Drama, History",Walter Salles,8.3,137,"Brazil, France","Portuguese, French"
-23055660,Nickel Boys,2024,Drama,RaMell Ross,7.0,140,United States,English
-17526714,The Substance,2024,"Drama, Horror, Sci-Fi",Coralie Fargeat,7.3,141,"United Kingdom, France",English
+14961016,I'm Still Here,2024,"Biography, Drama, History",Walter Salles,8.2,137,"Brazil, France","Portuguese, French"
+23055660,Nickel Boys,2024,Drama,RaMell Ross,6.9,140,United States,English
+17526714,The Substance,2024,"Drama, Horror, Sci-Fi",Coralie Fargeat,7.2,141,"United Kingdom, France",English
 1262426,Wicked,2024,"Fantasy, Musical, Romance",Jon M. Chu,7.5,160,"United States, Japan, Canada, Iceland, United Kingdom",English
